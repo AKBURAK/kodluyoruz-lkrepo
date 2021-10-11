@@ -1,5 +1,8 @@
 # kodluyoruz-lkrepo
 Kodluyoruz eğitimi kapsamında açtığım ilk repo
+
+![kodluyoruz](kodluyoruz)
+
 MARKDOWN NEDİR ?
 Markdown, John Gruber ve Aaron Swartz tarafından geliştirilmiş ve 2004 yılından bu yana kullanılan açık bir formattır. Markdown .md uzantılıdır. Bir çok yerde kullanabilirsiniz. Örneğin githubda Readme dosyalarını görmüşsünüzdür uzantısına baktığınızda Readme.md olduğunu görebilirsiniz :smile:
 
