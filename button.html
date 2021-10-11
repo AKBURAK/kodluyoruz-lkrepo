@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buton</title>
+    <style type="text/css">
+    body{
+        font-size: 50px;
+        margin:0px
+    }
+    .darkMode { 
+        background-color: aquamarine;
+        color: red;
+    }
+    </style>
+</head>
+<body>
+    <p>Alparsaln Malazgirt savaşı ile anadolunun kapılarını açtı bu sayede Türk dev. başladı 
+            Miryokefelon savaşı ile anadolunun tapusus elimize geçti 
+            yani bizansları topraklarımızdan attk.Galatasaray geçenki yapmış olduğu maç ile rakibi ile 
+            1-1 berabere kaldı yarın akşam saat 9.00 oynanacak maçta her şey belli olacaktı. İçimizden 
+            geçen tabikide galatasarın kazanması. 
+    </p>
+    <button onclick="changeMode()"><img src="light.svg" alt="light"></button>
+
+    <script type="text/javascript">
+         function changeMode(){
+             let element = document.body;
+             element.classList.toggle("darkMode"); 
+         }
+    </script>
+</body>
+</html>
